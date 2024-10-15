@@ -1,5 +1,5 @@
 
-# README: Classification of PACs and PVCs in PPG using Convolutional Neural Networks
+# Classification of PACs and PVCs in PPG using Convolutional Neural Networks
 
 ## Project Title
 Classification of Premature Atrial Contractions (PACs) and Premature Ventricular Contractions (PVCs) in Photoplethysmography (PPG) signals using Convolutional Neural Networks (CNNs)
